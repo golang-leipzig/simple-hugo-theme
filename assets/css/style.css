@@ -77,3 +77,7 @@ a.tag {
 a.anchor {
     padding-right: 0.3em;
 }
+
+blockquote {
+    color: #838383;
+}
